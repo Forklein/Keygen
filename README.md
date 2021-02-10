@@ -1,3 +1,3 @@
 # keygen
 
-Generate key and then transfer in .txt file
+Generate key (16 characters) and then transfer in .txt file
